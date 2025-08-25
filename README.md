@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m a **Computer Engineering student at the University o
 ## 🛠️ Tech & Tools  
 - **Languages**: C, C++, Python, Dart, JavaScript  
 - **Hardware**: Arduino, ESP32, FPGA (VGA display game design), sensors (MPU9250, FSRs)  
-- **Software/Frameworks**: Flutter, React, KiCad, MATLAB  
+- **Software/Frameworks**: Flutter, React, KiCad, MATLAB, Node.js  
 - **Other Skills**: API integration, natural language processing, data analytics
 
 
