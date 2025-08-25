@@ -1,6 +1,18 @@
-## Hi there 👋
+## Hi, I'm Dua 👋
 
-Welcome to my GitHub! I’m a **Computer Engineering student at the University of Toronto** passionate about building at the intersection of **engineering, AI, and public health**.  
+Welcome to my GitHub! I’m a **Computer Engineering student at the University of Toronto** passionate about building at the intersection of **Engineering, Aritifical Intelligence, and Healthcare**.  
+
+---
+## 🛠️ Tech & Tools  
+- **Languages**: C, C++, Python, Dart, JavaScript  
+- **Hardware**: Arduino, ESP32, FPGA (VGA display game design), sensors (MPU9250, FSRs)  
+- **Software/Frameworks**: Flutter, React, KiCad, MATLAB  
+- **Other Skills**: API integration, natural language processing, data analytics
+
+
+
+
+
 
 <!--
 **DuaQidwai/DuaQidwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
