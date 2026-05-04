@@ -4,6 +4,11 @@ I’m a second year Computer Engineering student at the University of Toronto
 
 I’ve worked across a mix of areas so far including FPGAs, embedded systems, and low level C and C++. More recently, I’ve been getting into data analytics and the use of AI and ML in healthcare. I’m still exploring, but most of my projects sit at the intersection of systems, data, and real world impact  
 
+## 🌐 Portfolio  
+
+For a full overview of my projects and experience:  
+👉 https://duaqidwai.netlify.app/ 
+
 ---
 
 ## 💡 What I Focus On  
